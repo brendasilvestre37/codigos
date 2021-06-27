@@ -1,0 +1,37 @@
+master sera el nombre del banch que estamos trabajando
+en el .git se guardan todos los cambios del repositorio local
+
+giyigmroe para no considerar algo
+
+README
+son archivos de descripcion
+
+git init
+
+git status
+
+git add hello.txt
+
+git commit -m "primera version"
+
+git add .
+
+git log
+
+git status
+
+git add hola.txt
+
+git status
+
+ git commit -m "segunda version"
+
+git checkout master
+
+ git remote add origin https://github.com/brendasilvestre37/prueba_progra2
+
+git remote -v
+
+ git push - u origin master
+
+
